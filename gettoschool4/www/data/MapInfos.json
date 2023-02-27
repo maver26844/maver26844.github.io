@@ -2,16 +2,16 @@
 null,
 {"id":1,"expanded":true,"name":"Debug","order":4,"parentId":2,"scrollX":819,"scrollY":461},
 {"id":2,"expanded":true,"name":"Outside","order":1,"parentId":0,"scrollX":819,"scrollY":461},
-{"id":3,"expanded":true,"name":"Home","order":2,"parentId":2,"scrollX":819,"scrollY":461},
-{"id":4,"expanded":false,"name":"Hidden Area","order":3,"parentId":2,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":3,"expanded":true,"name":"Home","order":2,"parentId":2,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
+{"id":4,"expanded":false,"name":"Hidden Area","order":3,"parentId":2,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
 {"id":5,"expanded":true,"name":"Outside 2","order":5,"parentId":0,"scrollX":1581,"scrollY":453},
 {"id":6,"expanded":true,"name":"Outside 3","order":6,"parentId":0,"scrollX":1945,"scrollY":1560},
 {"id":7,"expanded":true,"name":"bpass_entrance","order":7,"parentId":6,"scrollX":982.8,"scrollY":553.1999999999999},
 {"id":8,"expanded":false,"name":"bp1","order":8,"parentId":7,"scrollX":2433,"scrollY":3417},
 {"id":9,"expanded":true,"name":"bp2","order":9,"parentId":7,"scrollX":2431.2,"scrollY":1855.1999999999998},
-{"id":10,"expanded":true,"name":"ATown","order":10,"parentId":0,"scrollX":1943,"scrollY":453},
-{"id":11,"expanded":false,"name":"Tavern","order":11,"parentId":10,"scrollX":589.8181818181819,"scrollY":480.72727272727275},
-{"id":12,"expanded":true,"name":"WeaponStore","order":12,"parentId":10,"scrollX":595.6363636363636,"scrollY":335.27272727272725},
-{"id":13,"expanded":false,"name":"GeneralGoods","order":13,"parentId":10,"scrollX":595.6363636363636,"scrollY":335.27272727272725},
-{"id":14,"expanded":false,"name":"Inn","order":14,"parentId":10,"scrollX":819,"scrollY":461}
+{"id":10,"expanded":true,"name":"ATown","order":10,"parentId":0,"scrollX":922.6666666666666,"scrollY":396},
+{"id":11,"expanded":false,"name":"Tavern","order":11,"parentId":10,"scrollX":712,"scrollY":409.3333333333333},
+{"id":12,"expanded":true,"name":"WeaponStore","order":12,"parentId":10,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
+{"id":13,"expanded":false,"name":"GeneralGoods","order":13,"parentId":10,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
+{"id":14,"expanded":false,"name":"Inn","order":14,"parentId":10,"scrollX":712,"scrollY":406.6666666666667}
 ]
