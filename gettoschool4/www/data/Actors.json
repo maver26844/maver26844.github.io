@@ -1,5 +1,5 @@
 [
 null,
 {"id":1,"battlerName":"CrazyMan","characterIndex":0,"characterName":"CrazyMan","classId":1,"equips":[1,1,0,3,0],"faceIndex":0,"faceName":"CrazyMan","traits":[],"initialLevel":1,"maxLevel":99,"name":"Guzzle","nickname":"","note":"","profile":"The main character."},
-{"id":2,"battlerName":"","characterIndex":1,"characterName":"Monster","classId":6,"equips":[5,0,2,0,0],"faceIndex":1,"faceName":"Monster","traits":[],"initialLevel":2,"maxLevel":99,"name":"Slop","nickname":"","note":"","profile":"A slime named slop that decided to join you on your\njourney."}
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"Monster","classId":6,"equips":[5,0,7,0,0],"faceIndex":1,"faceName":"Monster","traits":[],"initialLevel":2,"maxLevel":99,"name":"Slop","nickname":"","note":"","profile":"A slime named slop that decided to join you on your\njourney."}
 ]
