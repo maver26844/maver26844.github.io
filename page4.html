@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maverick's Portfolio</title>
+</head>
+<style>
+    body {
+        background-image: linear-gradient(#999, #444, #999);
+        box-sizing: border-box;
+    }
+
+    h1 {
+        text-shadow: 2px 2px #000;
+    }
+
+    h2 {
+        text-shadow: 2px 2px #000;
+    }
+
+    p {
+        margin-left: 0.3rem;
+        margin-right: 0.5rem;
+        color: #FFF;
+        overflow: auto;
+    }
+
+    #p-italics {
+        font-style: italic;
+    }
+
+    #p-pages {
+        margin-left: -0.25rem;
+        margin-right: 0.5rem;
+        text-align: center;
+        color: #BBB;
+    }
+
+    #a1 {
+        color: #DD0022
+    }
+
+    #a2 {
+        color: #00FFFF
+    }
+
+    #a3 {
+        color: #00DD00
+    }
+
+    #a4 {
+        color: #DD00DD
+    }
+
+    .maintitle {
+        color: #DD00DD;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+
+    .titlediv {
+        margin-bottom: 2rem;
+        background-color: #333;
+        border-style: solid;
+        border-width: 0.5rem;
+        border-color: #000 #000 #000 #000;
+        float: left;
+    }
+
+    .mainbox {
+        background-color: #333;
+        height: 45rem;
+        width: 65rem;
+        clear: both;
+        justify-content: space-evenly;
+        display: flex;
+    }
+
+    .boxinmain1 {
+        margin: 1rem 1rem 1rem 1rem;
+        background-color: #555;
+        width: 60%;
+        border-style: ridge;
+        border-width: 0.75rem;
+        border-color: #000 #000 #000 #000
+    }
+
+    .boxinmain2 {
+        margin: 1rem 1rem 1rem 1rem;
+        background-color: #555;
+        width: 25%;
+        height: 65%;
+        border-style: ridge;
+        border-width: 0.75rem;
+        border-color: #000 #000 #000 #000
+    }
+
+    .heading1 {
+        color: #DD00DD;
+        padding-left: 0.5rem;
+    }
+
+    .heading2 {
+        color: #DD00DD;
+        padding-left: 1rem;
+    }
+
+    @media only screen and (max-width: 1200px) {
+
+
+        .mainbox {
+            height: 70rem;
+            width: 45rem;
+            display: table;
+        }
+
+        .boxinmain1 {
+            width: 70%;
+        }
+
+        .boxinmain2 {
+            width: 50%;
+        }
+    }
+
+    @media only screen and (max-width: 768px) {
+        p {
+            font-size: 1.25rem
+        }
+
+        .heading1 {
+            font-size: 2.5rem
+        }
+
+        .heading2 {
+            font-size: 2rem
+        }
+
+        .mainbox {
+            height: 70rem;
+            display: table;
+        }
+
+        .boxinmain2 {
+            width: 65%;
+        }
+    }
+
+    @media only screen and (max-width: 425px) {
+        p {
+            font-size: 1.75rem
+        }
+
+        .heading1 {
+            font-size: 3rem
+        }
+
+        .heading2 {
+            font-size: 2.5rem
+        }
+
+        .mainbox {
+            height: 70rem;
+            display: table;
+        }
+
+        .boxinmain2 {
+            width: 65%;
+        }
+    }
+</style>
+
+<body>
+    <div class="titlediv">
+        <h1 class="maintitle">
+            Maverick's Portfolio
+        </h1>
+    </div>
+    <div class="mainbox">
+        <div class="boxinmain1">
+            <h1 class="heading1">My Achievements</h1>
+            <h2 class="heading2">Get To School 4</h2>
+            <p>Get To School 4, my game made in RPG Maker MV has taught me the many challenges of making a game and
+                understanding flow charts.</p>
+            <img src="img/gts4.png" alt="">
+            <img src="img/gts4_code.png" alt="">
+            <h2 class="heading2">GitHub</h2>
+            <p>I have accomplished using to make it possible for others to access my game and to access this website.
+            </p>
+            <img src="img/website.png" alt="">
+            <p id="p-pages"><a id="a1" href="../maver26844.github.io/index2.html">Welcome Page</a> ● <a id="a2"
+                    href="../maver26844.github.io/page2.html">More Code</a> ● <a id="a3"
+                    href="../maver26844.github.io/gettoschool4/www/index.html">My
+                    Game!</a> ● <a id="a4" href="../maver26844.github.io/page4.html">My Achievements</a></p>
+        </div>
+        <div class="boxinmain2">
+            <p id="p-italics">And of course, I have accomplished finishing this programming class with a 100% grade,
+                being something that I am proud of. This class was a lot of fun and programming could turn out as a job
+                for me or just a hobby of mine.</p>
+                <p id="p-italics">- Maverick H.</p>
+        </div>
+    </div>
+</body>
+
+</html>
