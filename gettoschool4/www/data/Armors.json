@@ -8,6 +8,6 @@ null,
 {"id":6,"atypeId":2,"description":"Protects you from the dangers of magic!","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":133,"name":"Wizard Hat","note":"","params":[0,0,0,3,0,15,0,0],"price":450},
 {"id":7,"atypeId":3,"description":"A small cap worn by strong slimes to defend\nthemselves.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":289,"name":"Slime Cap","note":"","params":[0,0,0,5,0,2,0,0],"price":80},
 {"id":8,"atypeId":4,"description":"A helmet passed down by the great desert warriors\nof the sands.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":131,"name":"Desert Warrior Helmet","note":"","params":[0,0,0,35,0,0,0,0],"price":2500},
-{"id":9,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":10,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+{"id":9,"atypeId":6,"description":"A shield of your average warrior.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":129,"name":"Warrior's Shield","note":"","params":[0,0,0,20,0,0,0,0],"price":500},
+{"id":10,"atypeId":1,"description":"This band empowers you with pure speed!","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":144,"name":"Band of Agility","note":"","params":[0,0,0,0,0,0,20,0],"price":800}
 ]
