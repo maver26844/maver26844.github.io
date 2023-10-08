@@ -3,5 +3,6 @@
 var $plugins =
 [
 {"name":"Community_Basic","status":true,"description":"Basic plugin for manipulating important parameters.","parameters":{"cacheLimit":"20","screenWidth":"816","screenHeight":"624","changeWindowWidthTo":"","changeWindowHeightTo":"","renderingMode":"auto","alwaysDash":"off"}},
-{"name":"Formplug","status":true,"description":"Formplug","parameters":{"thumbsVariable":"11","modeVariable":"12"}}
+{"name":"Formplug","status":true,"description":"Formplug","parameters":{"thumbsVariable":"11","modeVariable":"12"}},
+{"name":"EnemyBars","status":true,"description":"Makes enemy hp bar appear in battle.","parameters":{"High HP Color":"#009900","Medium HP Color":"#ffcc00","Low HP Color":"#ff6600","Critical HP Color":"#ff3300"}}
 ];
