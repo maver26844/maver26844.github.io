@@ -67,10 +67,10 @@ null,
 {"id":65,"expanded":false,"name":"Behemoth Spot","order":65,"parentId":0,"scrollX":929.1428571428571,"scrollY":522.8571428571428},
 {"id":66,"expanded":false,"name":"The Sand is Over","order":66,"parentId":0,"scrollX":929.1428571428571,"scrollY":509.1428571428571},
 {"id":67,"expanded":false,"name":"Barrenlands x1 y1","order":67,"parentId":0,"scrollX":915.4285714285713,"scrollY":509.1428571428571},
-{"id":68,"expanded":true,"name":"Barrenlands x2 y1","order":68,"parentId":0,"scrollX":915.4285714285713,"scrollY":509.1428571428571},
-{"id":69,"expanded":false,"name":"Barrenlands x1 y2","order":70,"parentId":0,"scrollX":915.4285714285713,"scrollY":509.1428571428571},
-{"id":70,"expanded":false,"name":"Lava Cave","order":69,"parentId":68,"scrollX":915.4285714285713,"scrollY":509.1428571428571},
-{"id":71,"expanded":true,"name":"Barrenlands x2 y2","order":71,"parentId":0,"scrollX":915.4285714285713,"scrollY":509.1428571428571},
-{"id":72,"expanded":false,"name":"Baneful Beneath","order":72,"parentId":71,"scrollX":915.4285714285713,"scrollY":509.1428571428571},
-{"id":73,"expanded":false,"name":"New Area?","order":73,"parentId":0,"scrollX":929.1428571428571,"scrollY":522.8571428571428}
+{"id":68,"expanded":true,"name":"Barrenlands x2 y1","order":68,"parentId":0,"scrollX":2890.6666666666665,"scrollY":1626.6666666666667},
+{"id":69,"expanded":false,"name":"Barrenlands x1 y2","order":70,"parentId":0,"scrollX":2890.6666666666665,"scrollY":1626.6666666666667},
+{"id":70,"expanded":false,"name":"Lava Cave","order":69,"parentId":68,"scrollX":1448,"scrollY":1626.6666666666667},
+{"id":71,"expanded":true,"name":"Barrenlands x2 y2","order":71,"parentId":0,"scrollX":2890.6666666666665,"scrollY":1626.6666666666667},
+{"id":72,"expanded":false,"name":"Baneful Beneath","order":72,"parentId":71,"scrollX":1092,"scrollY":1192},
+{"id":73,"expanded":false,"name":"New Area?","order":73,"parentId":0,"scrollX":2890.6666666666665,"scrollY":1626.6666666666667}
 ]
