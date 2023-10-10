@@ -1,8 +1,8 @@
 [
 null,
 {"id":1,"expanded":false,"name":"Debug","order":4,"parentId":2,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
-{"id":2,"expanded":true,"name":"Outside","order":1,"parentId":0,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
-{"id":3,"expanded":true,"name":"Home","order":2,"parentId":2,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
+{"id":2,"expanded":true,"name":"Outside","order":1,"parentId":0,"scrollX":1084,"scrollY":610},
+{"id":3,"expanded":true,"name":"Home","order":2,"parentId":2,"scrollX":1300.8,"scrollY":732},
 {"id":4,"expanded":false,"name":"Hidden Area","order":3,"parentId":2,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
 {"id":5,"expanded":true,"name":"Outside 2","order":6,"parentId":0,"scrollX":534,"scrollY":519},
 {"id":6,"expanded":true,"name":"Outside 3","order":7,"parentId":0,"scrollX":2675,"scrollY":1800},
@@ -71,6 +71,7 @@ null,
 {"id":69,"expanded":false,"name":"Barrenlands x1 y2","order":70,"parentId":0,"scrollX":1474.6666666666667,"scrollY":1992},
 {"id":70,"expanded":false,"name":"Lava Cave","order":69,"parentId":68,"scrollX":712,"scrollY":1764},
 {"id":71,"expanded":true,"name":"Barrenlands x2 y2","order":71,"parentId":0,"scrollX":1165.0909090909092,"scrollY":648},
-{"id":72,"expanded":false,"name":"Baneful Beneath","order":72,"parentId":71,"scrollX":1165.0909090909092,"scrollY":1494.5454545454545},
-{"id":73,"expanded":false,"name":"Mount Amazing","order":73,"parentId":0,"scrollX":1165.0909090909092,"scrollY":3955.636363636364}
+{"id":72,"expanded":false,"name":"Baneful Beneath","order":72,"parentId":71,"scrollX":1281.6,"scrollY":1428},
+{"id":73,"expanded":true,"name":"Mount Amazing","order":73,"parentId":0,"scrollX":1358.3999999999999,"scrollY":3892.7999999999997},
+{"id":74,"expanded":false,"name":"Mount Amazing Cave","order":74,"parentId":73,"scrollX":1281.6,"scrollY":732}
 ]
